@@ -1,0 +1,2 @@
+epoch,cate_output_categorical_accuracy,cate_output_loss,loss,lr,sequential_loss,val_cate_output_categorical_accuracy,val_cate_output_loss,val_loss,val_sequential_loss
+0,0.5854166746139526,29.569303512573242,31.50608253479004,0.0009944713,1.9367873668670654,1.0,20.081787109375,20.72407341003418,0.6422860026359558

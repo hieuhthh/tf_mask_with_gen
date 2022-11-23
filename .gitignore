@@ -1,0 +1,10 @@
+*.h5
+download/
+unzip/
+dataset_clean/
+dataset_not_clean/
+__pycache__/
+glint_clean/
+save_models/
+weights/
+dataset/
